@@ -8,7 +8,7 @@ java -Xmx1024m Menu
 Please note that the '-Xmx1024m' flag is necessary to increase the heap space, as the program may encounter issues with insufficient memory without it.
 
 Contributor:
-Nicole Ha Yah Yie
-Mathavan Krishnan
-Ooi Weishan
-Sofea Athirah binti Sukiman
+- Nicole Ha Yah Yie
+- Mathavan Krishnan
+- Ooi Weishan
+- Sofea Athirah binti Sukiman
